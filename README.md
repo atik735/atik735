@@ -2,7 +2,7 @@
 <h1>Hi, I'm <span style="color:#0A66C2">Atik</span> 👋</h1>
 
 <!-- Replace 'yourusername' with your actual GitHub username -->
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=atik735&label=Profile%20views&color=0e75b6&style=flat)
 
 <h2 align="center">Full Stack Developer | Open Source Contributor</h2>
 
