@@ -1,6 +1,6 @@
 <a target="_blank" href="#"><img width="300" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></a>
 
-# Hi, I'm <span style="color:#0A66C2">Atik</span> 👋
+# Hi, I'm <span style="color:#0A66C2">Md Atik Hassan</span> 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=atik735&label=Profile%20views&color=0A66C2&style=flat-square)
 
@@ -8,8 +8,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Student passionate about full stack web development
-- 🧑‍💻 MERN Stack Developer (MongoDB, Express, React, Node)
+- 🌱 Currently learning: **MongoDB**
+-🎓 CSE student with medium experience in frontend and currently learning backend to become a full stack web developer
+-💬 Ask me about #Laravel #JavaScript #ReactJs #MongoDB
 - 📫 **Email:** atik@example.com
 - 🌐 **Portfolio:** [your-portfolio-link](#)
 - 📍 **Location:** Bangladesh
