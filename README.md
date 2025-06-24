@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Atik
-Welcome to my GitHub!
+## Hi there, I'm Atik 👋  
+I'm a Full Stack Web Developer  
+I build cool apps with React, Node.js and Firebase!
 
-![Profile views](https://komarev.com/ghpvc/?username=atikhassan&label=Profile%20views&color=0e75b6&style=flat)
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 ![Profile views](https://komarev.com/ghpvc/?username=atikhassan&label=Profile%20views&color=0e75b6&style=flat)
