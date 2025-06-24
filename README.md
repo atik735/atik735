@@ -10,9 +10,8 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🌱 Currently learning: **MongoDB**
-- 💬 **Ask me about**: #JavaScript #ReactJs #MongoDB
+- 🔭 Currently working on: Full-stack web apps with React & Node.js
+- 💬 **Ask me about**: #JavaScript #ReactJs #Firebase #MongoDB
 - 🎓 CSE student with medium experience in frontend and currently learning backend to become a full stack web developer
 - 📫 **Email:** atikh01003@gmail.com
 - 🌐 **Portfolio:** [Comming Soon](#)
