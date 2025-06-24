@@ -17,8 +17,8 @@
 
 ---
 
-## 💼 Designation
-**Full Stack Developer | React Enthusiast | Firebase Fan**
+## 💼 Designation  
+Frontend Developer (React) | Firebase Enthusiast | Learning Backend
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 🖼️ Banner
 
-![Cover](https://i.ibb.co/DY9rJXj/your-banner-image.png)
+![Cover]([https://i.ibb.co/DY9rJXj/your-banner-image.png](https://i.ibb.co/dJXSKKZ2/banner.jpg))
 
 ---
 
