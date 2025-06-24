@@ -1,6 +1,8 @@
 <a target="_blank" href="#"><img width="300" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></a>
 <h1>Hi, I'm <span style="color:#0A66C2">Atik</span> 👋</h1>
-![Profile views](https://komarev.com/ghpvc/?username=atikhassan&label=Profile%20views&color=0e75b6&style=flat)
+
+<!-- Replace 'yourusername' with your actual GitHub username -->
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 <h2 align="center">Full Stack Developer | Open Source Contributor</h2>
 
