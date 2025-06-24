@@ -1,6 +1,6 @@
 <a target="_blank" href="#"><img width="350" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=I+am+Atik+Hassan.;Frontend+Developer.;Learning+Full+Stack+Development...)](https://github.com/atik735)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+I+am+Atik+Hassan.;Frontend+Developer.)](https://github.com/atik735)
 
 ![Profile views](https://komarev.com/ghpvc/?username=atik735&label=Profile%20views&color=0A66C2&style=flat-square)
 
@@ -32,9 +32,7 @@ Frontend Developer (React) | Firebase Enthusiast | Learning Backend
 
 ## 🖼️ Banner
 
-![Cover]([https://i.ibb.co/DY9rJXj/your-banner-image.png](https://i.ibb.co/dJXSKKZ2/banner.jpg))
-
----
+![Cover](https://i.ibb.co/dJXSKKZ2/banner.jpg)
 
 
 ## 🛠️ Skills
