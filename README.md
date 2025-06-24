@@ -12,15 +12,16 @@
 ## 👨‍💻 About Me
 - 🔭 Currently working on: Full-stack web apps with React & Node.js
 - 💬 **Ask me about**: #JavaScript #ReactJs #Firebase #MongoDB
+- 📚 Currently learning Backend
 - 🎓 CSE student with medium experience in frontend and currently learning backend to become a full stack web developer
 - 📫 **Email:** atikh01003@gmail.com
-- 🌐 **Portfolio:** [Comming Soon](#)
+- 🌐 **Portfolio:** Coming Soon
 - 📍 **Location:** Bangladesh
 
 ---
 
 ## 💼 Designation  
-Frontend Developer (React) | Firebase Enthusiast | Learning Backend
+Full Stack Web Developer (React + Node.js) in Progress 🚀
 
 ---
 
