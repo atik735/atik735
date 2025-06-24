@@ -126,7 +126,7 @@ Frontend Developer (React) | Firebase Enthusiast | Learning Backend
 ## 📈 GitHub Stats
 
 ![Atik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atik735&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atik735&layout=compact&theme=tokyonight&hide_border=false&border_radius=10)
 
 ---
