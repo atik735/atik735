@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning: **MongoDB**
--🎓 CSE student with medium experience in frontend and currently learning backend to become a full stack web developer
+- 🎓 CSE student with medium experience in frontend and currently learning backend to become a full stack web developer
 -💬 Ask me about #JavaScript #ReactJs #MongoDB
 - 📫 **Email:** atikh01003@gmail.com
 - 🌐 **Portfolio:** [Comming Soon](#)
