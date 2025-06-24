@@ -136,5 +136,6 @@ Frontend Developer (React) | Firebase Enthusiast | Learning Backend
 
 ---
 
-_“Code. Learn. Repeat.” – Atik Hassan_
+_“Code. Learn. Repeat.” – Atik Hassan_,
+
 _Thanks for visiting! Let's collaborate and build something great together 🤝_
