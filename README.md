@@ -11,8 +11,8 @@
 - 🌱 Currently learning: **MongoDB**
 -🎓 CSE student with medium experience in frontend and currently learning backend to become a full stack web developer
 -💬 Ask me about #Laravel #JavaScript #ReactJs #MongoDB
-- 📫 **Email:** atik@example.com
-- 🌐 **Portfolio:** [your-portfolio-link](#)
+- 📫 **Email:** atikh01003@gmail.com
+- 🌐 **Portfolio:** [Comming Soon](#)
 - 📍 **Location:** Bangladesh
 
 ---
@@ -131,25 +131,5 @@ Frontend Developer (React) | Firebase Enthusiast | Learning Backend
 
 ---
 
-## 📌 Pinned Projects
-
-📍 **Bill Management App**  
-💻 React + Firebase | 🔒 Auth | 💸 Balance-based Payment  
-🔗 [Live Site](#) | 📦 [Repository](#)
-
-📍 **Library Management System**  
-📚 MERN Stack | 🔐 JWT | 📖 Borrow/Return Books  
-🔗 [Live Site](#) | 📦 [Repository](#)
-
-📍 **Coffee Store**  
-☕ Order System | 🔁 Cancel & Restock | Responsive UI  
-🔗 [Live Site](#) | 📦 [Repository](#)
-
-Each project includes a detailed README with:
-- 🔧 Features
-- 🧰 Tech Stack
-- 🚀 Deployment Info
-
----
 
 _Thanks for visiting! Let's collaborate and build something great together 🤝_
