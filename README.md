@@ -57,8 +57,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atik735&layout=compact&theme=tokyonight&hide_border=false&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atik735&theme=tokyonight&hide_border=false&border_radius=10)
-
 ---
 
 ## 📌 Pinned Projects
