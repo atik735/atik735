@@ -21,7 +21,7 @@
 ---
 
 ## 💼 Designation  
-Full Stack Web Developer (React + Node.js) in Progress 🚀
+Frontend Web Developer (React + Node.js) in Progress 🚀
 
 ---
 
